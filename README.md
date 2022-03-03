@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitin Rajput
 - 👀 I’m Certified Kubernetes Administrator
-- 🌱 I’m currently learnring 5G | Magma
+- 🌱 I’m currently learnring 5G | Magma | Hybrid Cloud
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/nitin-rajput-3a321114b/
 
 <!---
