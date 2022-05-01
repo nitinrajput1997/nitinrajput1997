@@ -2,7 +2,7 @@
 - 👀 I’m Certified Kubernetes Administrator
 - 🌱 I’m currently learnring 5G | Magma | Telco Cloud | Hybrid Cloud
 - 📫 How to reach me<br />
-      LinkedIn: https://www.linkedin.com/in/nitin-rajput-3a321114b/
+      LinkedIn: https://www.linkedin.com/in/nitin-rajput-3a321114b/ <br />
       YouTube: https://www.youtube.com/channel/UCe_yDnwo5C_wfssZ4Dkabzw
 
 <!---
