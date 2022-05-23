@@ -5,6 +5,8 @@
       LinkedIn: https://www.linkedin.com/in/nitin-rajput-3a321114b/ <br />
       YouTube: https://www.youtube.com/channel/UCe_yDnwo5C_wfssZ4Dkabzw
 
+[![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitinrajput1997)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 nitinrajput1997/nitinrajput1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
