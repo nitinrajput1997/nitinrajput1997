@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitin Rajput
-- 👀 I’m Software Engineer @OpenAirInterface Software Alliance | Certified Kubernetes Administrator | DevOps
+- 👀 I’m Certified Kubernetes Administrator | DevOps
 - 🌱 I’m currently learnring 5G | Magma | Telco Cloud | Hybrid Cloud
 - 📫 How to reach me<br />
       LinkedIn: https://www.linkedin.com/in/nitin-rajput-3a321114b/ <br />
