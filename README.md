@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nitin Rajput
 - 👀 I’m Certified Kubernetes Administrator | DevOps
 - 🌱 I’m currently learnring 5G | Magma | Telco Cloud | Hybrid Cloud
-- 🌱 Member of Magma India and OIP-Labs
+-    Member of Magma India and OIP-Labs
 - 📫 How to reach me<br />
       LinkedIn: https://www.linkedin.com/in/nitin-rajput-3a321114b/ <br />
       YouTube: https://www.youtube.com/channel/UCe_yDnwo5C_wfssZ4Dkabzw <br />
