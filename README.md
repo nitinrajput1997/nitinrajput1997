@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitin Rajput
-- 👀 I’m Certified Kubernetes Administrator | DevOps
+- 👀 I’m Certified Kubernetes Security Specialist | Certified Kubernetes Administrator | DevOps
 - 🌱 I’m currently learnring 5G | Magma | OAI | Telco Cloud | Hybrid Cloud
 - 📫  Member of ngKore, Magma India and OIP-Labs
 - 📫 How to reach me<br />
